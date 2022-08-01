@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:6:4-36:19
+MERGED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.8.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/704171737226c3cc0419b900f792443e/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/704171737226c3cc0419b900f792443e/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/925c7187acc131e0913e42d3406825ca/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/925c7187acc131e0913e42d3406825ca/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/704171737226c3cc0419b900f792443e/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:7:9-34
+	android:icon
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:9:9-43
+	android:name
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:8:9-42
+manifest
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/ed652dcd2fd9c36a379f091898c86df9/window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/8e2a2e4e48a5bb1abae71c81dd67395d/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/42bfafc972817ac08155d6610d0ccc05/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/4cd03a3eb9fe2e201b917a8f66ccffb0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/52d94ab92feeeeca0663b5540905e220/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/5fa39e9795bff207e30779465e65fc21/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/704171737226c3cc0419b900f792443e/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/2890c2a0c5c1d1b2007f6cce4f5a2803/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/18f6a849cbc73eee747a5971a38efefa/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/3ec1bc4e5c5ae7eaf9e30a0322d1509d/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/925c7187acc131e0913e42d3406825ca/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/b12e0548e141f031de9eebf7abb947cc/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/242926393ccfaf2ce3a76c1815e67f82/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/5f9d2451cd8c503db63cff04f04a7336/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/61035d55553a2bff1347198aace78d57/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/3d0930f056dc716cc15065aed9eecd2f/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/5687c31d8bace37ec3b0ce1cb6e6ab58/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:1-37:12
+	package
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:3:5-65
+	android:name
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:3:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-sdk
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+MERGED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/ed652dcd2fd9c36a379f091898c86df9/window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/ed652dcd2fd9c36a379f091898c86df9/window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/8e2a2e4e48a5bb1abae71c81dd67395d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/8e2a2e4e48a5bb1abae71c81dd67395d/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/42bfafc972817ac08155d6610d0ccc05/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/42bfafc972817ac08155d6610d0ccc05/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/4cd03a3eb9fe2e201b917a8f66ccffb0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/4cd03a3eb9fe2e201b917a8f66ccffb0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/52d94ab92feeeeca0663b5540905e220/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/52d94ab92feeeeca0663b5540905e220/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/5fa39e9795bff207e30779465e65fc21/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/5fa39e9795bff207e30779465e65fc21/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/704171737226c3cc0419b900f792443e/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/704171737226c3cc0419b900f792443e/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/2890c2a0c5c1d1b2007f6cce4f5a2803/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/2890c2a0c5c1d1b2007f6cce4f5a2803/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/18f6a849cbc73eee747a5971a38efefa/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/18f6a849cbc73eee747a5971a38efefa/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/3ec1bc4e5c5ae7eaf9e30a0322d1509d/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/3ec1bc4e5c5ae7eaf9e30a0322d1509d/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/925c7187acc131e0913e42d3406825ca/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/925c7187acc131e0913e42d3406825ca/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/b12e0548e141f031de9eebf7abb947cc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/b12e0548e141f031de9eebf7abb947cc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/242926393ccfaf2ce3a76c1815e67f82/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/242926393ccfaf2ce3a76c1815e67f82/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/5f9d2451cd8c503db63cff04f04a7336/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/5f9d2451cd8c503db63cff04f04a7336/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/61035d55553a2bff1347198aace78d57/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/61035d55553a2bff1347198aace78d57/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/3d0930f056dc716cc15065aed9eecd2f/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/3d0930f056dc716cc15065aed9eecd2f/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/5687c31d8bace37ec3b0ce1cb6e6ab58/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/5687c31d8bace37ec3b0ce1cb6e6ab58/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml
+activity#com.julion.code_test.MainActivity
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:10:9-30:20
+	android:launchMode
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:13:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:17:13-55
+	android:exported
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:15:13-163
+	android:theme
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:14:13-47
+	android:name
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:11:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:22:13-25:17
+	android:resource
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:24:15-52
+	android:name
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:23:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:28:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:33:9-35:33
+	android:value
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:35:13-30
+	android:name
+		ADDED from /Users/minkhantkyaw/AndroidStudioProjects/code_test/android/app/src/main/AndroidManifest.xml:34:13-44
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] /Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/library_manifest/release/AndroidManifest.xml:14:17-67
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/68adf1fb5c0a0626f9259810a7bba9a8/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51

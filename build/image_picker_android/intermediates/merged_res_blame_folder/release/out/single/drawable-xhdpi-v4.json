@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/fca4221dbc7cc3ccb305707760767703/core-1.8.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/fca4221dbc7cc3ccb305707760767703/core-1.8.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/fca4221dbc7cc3ccb305707760767703/core-1.8.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/fca4221dbc7cc3ccb305707760767703/core-1.8.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/minkhantkyaw/AndroidStudioProjects/code_test/build/image_picker_android/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/minkhantkyaw/.gradle/caches/transforms-2/files-2.1/fca4221dbc7cc3ccb305707760767703/core-1.8.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]
